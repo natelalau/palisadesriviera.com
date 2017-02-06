@@ -1,0 +1,4885 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "19115",
+"files": {
+	"\/404.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/404.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/archive.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/archive.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/css\/custom-login.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/css\/custom-login.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/images\/favicon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1684,
+		"inputAbbreviatedPath": "\/assets\/images\/favicon.png",
+		"outputAbbreviatedPath": "\/assets\/images\/favicon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/kcsoll-site-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21464,
+		"inputAbbreviatedPath": "\/assets\/images\/kcsoll-site-icon.png",
+		"outputAbbreviatedPath": "\/assets\/images\/kcsoll-site-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/login-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38422,
+		"inputAbbreviatedPath": "\/assets\/images\/login-logo.png",
+		"outputAbbreviatedPath": "\/assets\/images\/login-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/custom.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/custom.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/custom-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/scss\/custom-login.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/scss\/custom-login.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/custom-login.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": 0
+		},
+	"\/assets\/scss\/style.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/scss\/style.scss",
+		"outputAbbreviatedPath": "\/style.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": 0
+		},
+	"\/breadcrumbs.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/breadcrumbs.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/comments.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/comments.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/composer.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/composer.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/composer-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/content-loop.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content-loop.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/footer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/footer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/front-page.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/front-page.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/functions.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/functions.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/header.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/header.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/img\/advance.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23400,
+		"inputAbbreviatedPath": "\/img\/advance.jpg",
+		"outputAbbreviatedPath": "\/img\/advance.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/belair.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19701,
+		"inputAbbreviatedPath": "\/img\/belair.png",
+		"outputAbbreviatedPath": "\/img\/belair.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/beverly.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22946,
+		"inputAbbreviatedPath": "\/img\/beverly.png",
+		"outputAbbreviatedPath": "\/img\/beverly.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/borderbg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2862,
+		"inputAbbreviatedPath": "\/img\/borderbg.png",
+		"outputAbbreviatedPath": "\/img\/borderbg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/brentwood.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18818,
+		"inputAbbreviatedPath": "\/img\/brentwood.png",
+		"outputAbbreviatedPath": "\/img\/brentwood.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/btn-hover\/belair.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19701,
+		"inputAbbreviatedPath": "\/img\/btn-hover\/belair.png",
+		"outputAbbreviatedPath": "\/img\/btn-hover\/belair.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/btn-hover\/beverly.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22946,
+		"inputAbbreviatedPath": "\/img\/btn-hover\/beverly.png",
+		"outputAbbreviatedPath": "\/img\/btn-hover\/beverly.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/btn-hover\/brentwood.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18818,
+		"inputAbbreviatedPath": "\/img\/btn-hover\/brentwood.png",
+		"outputAbbreviatedPath": "\/img\/btn-hover\/brentwood.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/btn-hover\/malibu.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25048,
+		"inputAbbreviatedPath": "\/img\/btn-hover\/malibu.png",
+		"outputAbbreviatedPath": "\/img\/btn-hover\/malibu.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/btn-hover\/manhattan.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17751,
+		"inputAbbreviatedPath": "\/img\/btn-hover\/manhattan.png",
+		"outputAbbreviatedPath": "\/img\/btn-hover\/manhattan.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/btn-hover\/pacificpalisades.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22315,
+		"inputAbbreviatedPath": "\/img\/btn-hover\/pacificpalisades.png",
+		"outputAbbreviatedPath": "\/img\/btn-hover\/pacificpalisades.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/btn-hover\/santamonica.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20075,
+		"inputAbbreviatedPath": "\/img\/btn-hover\/santamonica.png",
+		"outputAbbreviatedPath": "\/img\/btn-hover\/santamonica.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/btn-hover\/westwood.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17813,
+		"inputAbbreviatedPath": "\/img\/btn-hover\/westwood.png",
+		"outputAbbreviatedPath": "\/img\/btn-hover\/westwood.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/community.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6870,
+		"inputAbbreviatedPath": "\/img\/community.png",
+		"outputAbbreviatedPath": "\/img\/community.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/contactbg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58796,
+		"inputAbbreviatedPath": "\/img\/contactbg.jpg",
+		"outputAbbreviatedPath": "\/img\/contactbg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/cta1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56056,
+		"inputAbbreviatedPath": "\/img\/cta1.jpg",
+		"outputAbbreviatedPath": "\/img\/cta1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/cta2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52601,
+		"inputAbbreviatedPath": "\/img\/cta2.jpg",
+		"outputAbbreviatedPath": "\/img\/cta2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/cta2bak.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51475,
+		"inputAbbreviatedPath": "\/img\/cta2bak.jpg",
+		"outputAbbreviatedPath": "\/img\/cta2bak.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/cta3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52611,
+		"inputAbbreviatedPath": "\/img\/cta3.jpg",
+		"outputAbbreviatedPath": "\/img\/cta3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/cta3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15179,
+		"inputAbbreviatedPath": "\/img\/cta3.png",
+		"outputAbbreviatedPath": "\/img\/cta3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/fb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3199,
+		"inputAbbreviatedPath": "\/img\/fb.png",
+		"outputAbbreviatedPath": "\/img\/fb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/fcbg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25127,
+		"inputAbbreviatedPath": "\/img\/fcbg.jpg",
+		"outputAbbreviatedPath": "\/img\/fcbg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/find.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24730,
+		"inputAbbreviatedPath": "\/img\/find.jpg",
+		"outputAbbreviatedPath": "\/img\/find.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/fp1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69591,
+		"inputAbbreviatedPath": "\/img\/fp1.jpg",
+		"outputAbbreviatedPath": "\/img\/fp1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/fp2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84739,
+		"inputAbbreviatedPath": "\/img\/fp2.jpg",
+		"outputAbbreviatedPath": "\/img\/fp2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/fp3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59685,
+		"inputAbbreviatedPath": "\/img\/fp3.jpg",
+		"outputAbbreviatedPath": "\/img\/fp3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/fp4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68149,
+		"inputAbbreviatedPath": "\/img\/fp4.jpg",
+		"outputAbbreviatedPath": "\/img\/fp4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/fpbg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 270251,
+		"inputAbbreviatedPath": "\/img\/fpbg.jpg",
+		"outputAbbreviatedPath": "\/img\/fpbg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/headerbg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29370,
+		"inputAbbreviatedPath": "\/img\/headerbg.png",
+		"outputAbbreviatedPath": "\/img\/headerbg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/home.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28605,
+		"inputAbbreviatedPath": "\/img\/home.jpg",
+		"outputAbbreviatedPath": "\/img\/home.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/icons.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4813,
+		"inputAbbreviatedPath": "\/img\/icons.png",
+		"outputAbbreviatedPath": "\/img\/icons.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/in.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3352,
+		"inputAbbreviatedPath": "\/img\/in.png",
+		"outputAbbreviatedPath": "\/img\/in.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/listbg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9402,
+		"inputAbbreviatedPath": "\/img\/listbg.png",
+		"outputAbbreviatedPath": "\/img\/listbg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/listbg_v1.0.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7069,
+		"inputAbbreviatedPath": "\/img\/listbg_v1.0.png",
+		"outputAbbreviatedPath": "\/img\/listbg_v1.0.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/listbg_v1.1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8631,
+		"inputAbbreviatedPath": "\/img\/listbg_v1.1.png",
+		"outputAbbreviatedPath": "\/img\/listbg_v1.1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/listbg_v1.2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8704,
+		"inputAbbreviatedPath": "\/img\/listbg_v1.2.png",
+		"outputAbbreviatedPath": "\/img\/listbg_v1.2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39107,
+		"inputAbbreviatedPath": "\/img\/logo.png",
+		"outputAbbreviatedPath": "\/img\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/logo2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27335,
+		"inputAbbreviatedPath": "\/img\/logo2.png",
+		"outputAbbreviatedPath": "\/img\/logo2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/maincontent.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17173,
+		"inputAbbreviatedPath": "\/img\/maincontent.jpg",
+		"outputAbbreviatedPath": "\/img\/maincontent.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/mainwrapbg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18361,
+		"inputAbbreviatedPath": "\/img\/mainwrapbg.jpg",
+		"outputAbbreviatedPath": "\/img\/mainwrapbg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/malibu.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25048,
+		"inputAbbreviatedPath": "\/img\/malibu.png",
+		"outputAbbreviatedPath": "\/img\/malibu.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/manhattan.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17751,
+		"inputAbbreviatedPath": "\/img\/manhattan.png",
+		"outputAbbreviatedPath": "\/img\/manhattan.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/numberbg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2906,
+		"inputAbbreviatedPath": "\/img\/numberbg.png",
+		"outputAbbreviatedPath": "\/img\/numberbg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/pacificpalisades.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22315,
+		"inputAbbreviatedPath": "\/img\/pacificpalisades.png",
+		"outputAbbreviatedPath": "\/img\/pacificpalisades.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/qsbg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11645,
+		"inputAbbreviatedPath": "\/img\/qsbg.png",
+		"outputAbbreviatedPath": "\/img\/qsbg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/santamonica.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20075,
+		"inputAbbreviatedPath": "\/img\/santamonica.png",
+		"outputAbbreviatedPath": "\/img\/santamonica.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/search.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23294,
+		"inputAbbreviatedPath": "\/img\/search.jpg",
+		"outputAbbreviatedPath": "\/img\/search.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/search2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26862,
+		"inputAbbreviatedPath": "\/img\/search2.jpg",
+		"outputAbbreviatedPath": "\/img\/search2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/slider1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 850437,
+		"inputAbbreviatedPath": "\/img\/slider1.jpg",
+		"outputAbbreviatedPath": "\/img\/slider1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/slider2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.18584e+06,
+		"inputAbbreviatedPath": "\/img\/slider2.jpg",
+		"outputAbbreviatedPath": "\/img\/slider2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/slider3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 837819,
+		"inputAbbreviatedPath": "\/img\/slider3.jpg",
+		"outputAbbreviatedPath": "\/img\/slider3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/slider4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 962546,
+		"inputAbbreviatedPath": "\/img\/slider4.jpg",
+		"outputAbbreviatedPath": "\/img\/slider4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/slider5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 530157,
+		"inputAbbreviatedPath": "\/img\/slider5.jpg",
+		"outputAbbreviatedPath": "\/img\/slider5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/slider6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.01515e+06,
+		"inputAbbreviatedPath": "\/img\/slider6.jpg",
+		"outputAbbreviatedPath": "\/img\/slider6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/slider7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.00823e+06,
+		"inputAbbreviatedPath": "\/img\/slider7.jpg",
+		"outputAbbreviatedPath": "\/img\/slider7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/slider8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 954596,
+		"inputAbbreviatedPath": "\/img\/slider8.jpg",
+		"outputAbbreviatedPath": "\/img\/slider8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/sotheby.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7183,
+		"inputAbbreviatedPath": "\/img\/sotheby.png",
+		"outputAbbreviatedPath": "\/img\/sotheby.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/sothebys_footer.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7876,
+		"inputAbbreviatedPath": "\/img\/sothebys_footer.png",
+		"outputAbbreviatedPath": "\/img\/sothebys_footer.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/sothebys_header.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6524,
+		"inputAbbreviatedPath": "\/img\/sothebys_header.png",
+		"outputAbbreviatedPath": "\/img\/sothebys_header.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/start.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14865,
+		"inputAbbreviatedPath": "\/img\/start.png",
+		"outputAbbreviatedPath": "\/img\/start.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/taglinebg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3734,
+		"inputAbbreviatedPath": "\/img\/taglinebg.png",
+		"outputAbbreviatedPath": "\/img\/taglinebg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/welconebg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23039,
+		"inputAbbreviatedPath": "\/img\/welconebg.jpg",
+		"outputAbbreviatedPath": "\/img\/welconebg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/westwood.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17813,
+		"inputAbbreviatedPath": "\/img\/westwood.png",
+		"outputAbbreviatedPath": "\/img\/westwood.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/page-fullwidth.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/page-fullwidth.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/page-idx.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/page-idx.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/page.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/page.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/screenshot.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.04012e+06,
+		"inputAbbreviatedPath": "\/screenshot.png",
+		"outputAbbreviatedPath": "\/screenshot.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/search.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/search.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/sidebar.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sidebar.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/single.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/single.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/style.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/tpl-sitemap-old.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/tpl-sitemap-old.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/tpl-sitemap.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/tpl-sitemap.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/autoload.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/autoload.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/composer\/autoload_classmap.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/composer\/autoload_classmap.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/composer\/autoload_namespaces.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/composer\/autoload_namespaces.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/composer\/autoload_psr4.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/composer\/autoload_psr4.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/composer\/autoload_real.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/composer\/autoload_real.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/composer\/autoload_static.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/composer\/autoload_static.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/composer\/ClassLoader.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/composer\/ClassLoader.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/composer\/installed.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/composer\/installed.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/vendor\/composer\/installed-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/CLI.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/CLI.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/DocGenerators\/Generator.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/DocGenerators\/Generator.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/DocGenerators\/HTML.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/DocGenerators\/HTML.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/DocGenerators\/Markdown.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/DocGenerators\/Markdown.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/DocGenerators\/Text.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/DocGenerators\/Text.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Exception.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Exception.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/File.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/File.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Fixer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Fixer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Report.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Report.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reporting.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reporting.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Cbf.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Cbf.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Checkstyle.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Checkstyle.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Csv.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Csv.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Diff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Diff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Emacs.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Emacs.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Full.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Full.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Gitblame.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Gitblame.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Hgblame.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Hgblame.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Info.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Info.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Json.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Json.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Junit.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Junit.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Notifysend.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Notifysend.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Source.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Source.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Summary.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Summary.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Svnblame.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Svnblame.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/VersionControl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/VersionControl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Xml.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Reports\/Xml.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Sniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Sniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/AbstractPatternSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/AbstractPatternSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/AbstractScopeSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/AbstractScopeSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/AbstractVariableSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/AbstractVariableSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Arrays\/DisallowLongArraySyntaxSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Arrays\/DisallowLongArraySyntaxSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Arrays\/DisallowShortArraySyntaxSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Arrays\/DisallowShortArraySyntaxSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Classes\/DuplicateClassNameSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Classes\/DuplicateClassNameSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/CodeAnalysis\/EmptyStatementSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/CodeAnalysis\/EmptyStatementSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/CodeAnalysis\/ForLoopShouldBeWhileLoopSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/CodeAnalysis\/ForLoopShouldBeWhileLoopSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/CodeAnalysis\/ForLoopWithTestFunctionCallSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/CodeAnalysis\/ForLoopWithTestFunctionCallSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/CodeAnalysis\/JumbledIncrementerSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/CodeAnalysis\/JumbledIncrementerSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/CodeAnalysis\/UnconditionalIfStatementSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/CodeAnalysis\/UnconditionalIfStatementSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/CodeAnalysis\/UnnecessaryFinalModifierSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/CodeAnalysis\/UnnecessaryFinalModifierSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/CodeAnalysis\/UnusedFunctionParameterSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/CodeAnalysis\/UnusedFunctionParameterSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/CodeAnalysis\/UselessOverridingMethodSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/CodeAnalysis\/UselessOverridingMethodSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Commenting\/DocCommentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Commenting\/DocCommentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Commenting\/FixmeSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Commenting\/FixmeSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Commenting\/TodoSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Commenting\/TodoSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/ControlStructures\/InlineControlStructureSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/ControlStructures\/InlineControlStructureSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Debug\/ClosureLinterSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Debug\/ClosureLinterSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Debug\/CSSLintSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Debug\/CSSLintSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Debug\/JSHintSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Debug\/JSHintSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Files\/ByteOrderMarkSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Files\/ByteOrderMarkSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Files\/EndFileNewlineSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Files\/EndFileNewlineSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Files\/EndFileNoNewlineSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Files\/EndFileNoNewlineSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Files\/InlineHTMLSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Files\/InlineHTMLSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Files\/LineEndingsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Files\/LineEndingsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Files\/LineLengthSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Files\/LineLengthSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Files\/LowercasedFilenameSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Files\/LowercasedFilenameSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Files\/OneClassPerFileSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Files\/OneClassPerFileSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Files\/OneInterfacePerFileSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Files\/OneInterfacePerFileSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Files\/OneTraitPerFileSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Files\/OneTraitPerFileSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Formatting\/DisallowMultipleStatementsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Formatting\/DisallowMultipleStatementsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Formatting\/MultipleStatementAlignmentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Formatting\/MultipleStatementAlignmentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Formatting\/NoSpaceAfterCastSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Formatting\/NoSpaceAfterCastSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Formatting\/SpaceAfterCastSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Formatting\/SpaceAfterCastSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Functions\/CallTimePassByReferenceSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Functions\/CallTimePassByReferenceSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Functions\/FunctionCallArgumentSpacingSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Functions\/FunctionCallArgumentSpacingSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Functions\/OpeningFunctionBraceBsdAllmanSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Functions\/OpeningFunctionBraceBsdAllmanSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Functions\/OpeningFunctionBraceKernighanRitchieSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Functions\/OpeningFunctionBraceKernighanRitchieSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Metrics\/CyclomaticComplexitySniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Metrics\/CyclomaticComplexitySniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Metrics\/NestingLevelSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Metrics\/NestingLevelSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/NamingConventions\/CamelCapsFunctionNameSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/NamingConventions\/CamelCapsFunctionNameSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/NamingConventions\/ConstructorNameSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/NamingConventions\/ConstructorNameSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/NamingConventions\/UpperCaseConstantNameSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/NamingConventions\/UpperCaseConstantNameSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/PHP\/CharacterBeforePHPOpeningTagSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/PHP\/CharacterBeforePHPOpeningTagSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/PHP\/ClosingPHPTagSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/PHP\/ClosingPHPTagSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/PHP\/DeprecatedFunctionsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/PHP\/DeprecatedFunctionsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/PHP\/DisallowShortOpenTagSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/PHP\/DisallowShortOpenTagSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/PHP\/ForbiddenFunctionsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/PHP\/ForbiddenFunctionsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/PHP\/LowerCaseConstantSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/PHP\/LowerCaseConstantSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/PHP\/LowerCaseKeywordSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/PHP\/LowerCaseKeywordSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/PHP\/NoSilencedErrorsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/PHP\/NoSilencedErrorsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/PHP\/SAPIUsageSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/PHP\/SAPIUsageSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/PHP\/SyntaxSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/PHP\/SyntaxSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/PHP\/UpperCaseConstantSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/PHP\/UpperCaseConstantSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Strings\/UnnecessaryStringConcatSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/Strings\/UnnecessaryStringConcatSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/VersionControl\/SubversionPropertiesSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/VersionControl\/SubversionPropertiesSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/WhiteSpace\/DisallowSpaceIndentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/WhiteSpace\/DisallowSpaceIndentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/WhiteSpace\/DisallowTabIndentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/WhiteSpace\/DisallowTabIndentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/WhiteSpace\/ScopeIndentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Generic\/Sniffs\/WhiteSpace\/ScopeIndentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/IncorrectPatternException.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/IncorrectPatternException.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/Channels\/DisallowSelfActionsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/Channels\/DisallowSelfActionsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/Channels\/IncludeOwnSystemSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/Channels\/IncludeOwnSystemSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/Channels\/IncludeSystemSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/Channels\/IncludeSystemSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/Channels\/UnusedSystemSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/Channels\/UnusedSystemSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/Commenting\/FunctionCommentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/Commenting\/FunctionCommentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/CSS\/BrowserSpecificStylesSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/CSS\/BrowserSpecificStylesSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/Debug\/DebugCodeSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/Debug\/DebugCodeSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/Debug\/FirebugConsoleSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/Debug\/FirebugConsoleSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/Objects\/AssignThisSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/Objects\/AssignThisSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/Objects\/CreateWidgetTypeCallbackSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/Objects\/CreateWidgetTypeCallbackSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/Objects\/DisallowNewWidgetSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/Objects\/DisallowNewWidgetSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/PHP\/AjaxNullComparisonSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/PHP\/AjaxNullComparisonSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/PHP\/EvalObjectFactorySniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/PHP\/EvalObjectFactorySniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/PHP\/GetRequestDataSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/PHP\/GetRequestDataSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/PHP\/ReturnFunctionValueSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/PHP\/ReturnFunctionValueSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/Strings\/JoinStringsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/MySource\/Sniffs\/Strings\/JoinStringsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/Classes\/ClassDeclarationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/Classes\/ClassDeclarationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/Commenting\/ClassCommentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/Commenting\/ClassCommentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/Commenting\/FileCommentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/Commenting\/FileCommentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/Commenting\/FunctionCommentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/Commenting\/FunctionCommentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/Commenting\/InlineCommentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/Commenting\/InlineCommentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/ControlStructures\/ControlSignatureSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/ControlStructures\/ControlSignatureSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/ControlStructures\/MultiLineConditionSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/ControlStructures\/MultiLineConditionSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/Files\/IncludingFileSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/Files\/IncludingFileSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/Formatting\/MultiLineAssignmentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/Formatting\/MultiLineAssignmentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/Functions\/FunctionCallSignatureSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/Functions\/FunctionCallSignatureSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/Functions\/FunctionDeclarationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/Functions\/FunctionDeclarationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/Functions\/ValidDefaultValueSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/Functions\/ValidDefaultValueSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/NamingConventions\/ValidClassNameSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/NamingConventions\/ValidClassNameSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/NamingConventions\/ValidFunctionNameSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/NamingConventions\/ValidFunctionNameSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/NamingConventions\/ValidVariableNameSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/NamingConventions\/ValidVariableNameSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/WhiteSpace\/ObjectOperatorIndentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/WhiteSpace\/ObjectOperatorIndentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/WhiteSpace\/ScopeClosingBraceSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/WhiteSpace\/ScopeClosingBraceSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/WhiteSpace\/ScopeIndentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PEAR\/Sniffs\/WhiteSpace\/ScopeIndentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR1\/Sniffs\/Classes\/ClassDeclarationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR1\/Sniffs\/Classes\/ClassDeclarationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR1\/Sniffs\/Files\/SideEffectsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR1\/Sniffs\/Files\/SideEffectsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR1\/Sniffs\/Methods\/CamelCapsMethodNameSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR1\/Sniffs\/Methods\/CamelCapsMethodNameSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR2\/Sniffs\/Classes\/ClassDeclarationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR2\/Sniffs\/Classes\/ClassDeclarationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR2\/Sniffs\/Classes\/PropertyDeclarationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR2\/Sniffs\/Classes\/PropertyDeclarationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR2\/Sniffs\/ControlStructures\/ControlStructureSpacingSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR2\/Sniffs\/ControlStructures\/ControlStructureSpacingSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR2\/Sniffs\/ControlStructures\/ElseIfDeclarationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR2\/Sniffs\/ControlStructures\/ElseIfDeclarationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR2\/Sniffs\/ControlStructures\/SwitchDeclarationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR2\/Sniffs\/ControlStructures\/SwitchDeclarationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR2\/Sniffs\/Files\/ClosingTagSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR2\/Sniffs\/Files\/ClosingTagSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR2\/Sniffs\/Files\/EndFileNewlineSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR2\/Sniffs\/Files\/EndFileNewlineSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR2\/Sniffs\/Methods\/FunctionCallSignatureSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR2\/Sniffs\/Methods\/FunctionCallSignatureSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR2\/Sniffs\/Methods\/MethodDeclarationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR2\/Sniffs\/Methods\/MethodDeclarationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR2\/Sniffs\/Namespaces\/NamespaceDeclarationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR2\/Sniffs\/Namespaces\/NamespaceDeclarationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR2\/Sniffs\/Namespaces\/UseDeclarationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/PSR2\/Sniffs\/Namespaces\/UseDeclarationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Arrays\/ArrayBracketSpacingSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Arrays\/ArrayBracketSpacingSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Arrays\/ArrayDeclarationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Arrays\/ArrayDeclarationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Classes\/ClassDeclarationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Classes\/ClassDeclarationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Classes\/ClassFileNameSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Classes\/ClassFileNameSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Classes\/DuplicatePropertySniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Classes\/DuplicatePropertySniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Classes\/LowercaseClassKeywordsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Classes\/LowercaseClassKeywordsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Classes\/SelfMemberReferenceSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Classes\/SelfMemberReferenceSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Classes\/ValidClassNameSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Classes\/ValidClassNameSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/BlockCommentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/BlockCommentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/ClassCommentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/ClassCommentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/ClosingDeclarationCommentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/ClosingDeclarationCommentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/DocCommentAlignmentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/DocCommentAlignmentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/EmptyCatchCommentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/EmptyCatchCommentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/FileCommentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/FileCommentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/FunctionCommentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/FunctionCommentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/FunctionCommentThrowTagSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/FunctionCommentThrowTagSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/InlineCommentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/InlineCommentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/LongConditionClosingCommentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/LongConditionClosingCommentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/PostStatementCommentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/PostStatementCommentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/VariableCommentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Commenting\/VariableCommentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/ControlStructures\/ControlSignatureSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/ControlStructures\/ControlSignatureSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/ControlStructures\/ElseIfDeclarationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/ControlStructures\/ElseIfDeclarationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/ControlStructures\/ForEachLoopDeclarationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/ControlStructures\/ForEachLoopDeclarationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/ControlStructures\/ForLoopDeclarationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/ControlStructures\/ForLoopDeclarationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/ControlStructures\/InlineIfDeclarationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/ControlStructures\/InlineIfDeclarationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/ControlStructures\/LowercaseDeclarationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/ControlStructures\/LowercaseDeclarationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/ControlStructures\/SwitchDeclarationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/ControlStructures\/SwitchDeclarationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/ClassDefinitionClosingBraceSpaceSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/ClassDefinitionClosingBraceSpaceSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/ClassDefinitionNameSpacingSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/ClassDefinitionNameSpacingSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/ClassDefinitionOpeningBraceSpaceSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/ClassDefinitionOpeningBraceSpaceSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/ColonSpacingSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/ColonSpacingSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/ColourDefinitionSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/ColourDefinitionSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/DisallowMultipleStyleDefinitionsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/DisallowMultipleStyleDefinitionsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/DuplicateClassDefinitionSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/DuplicateClassDefinitionSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/DuplicateStyleDefinitionSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/DuplicateStyleDefinitionSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/EmptyClassDefinitionSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/EmptyClassDefinitionSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/EmptyStyleDefinitionSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/EmptyStyleDefinitionSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/ForbiddenStylesSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/ForbiddenStylesSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/IndentationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/IndentationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/LowercaseStyleDefinitionSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/LowercaseStyleDefinitionSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/MissingColonSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/MissingColonSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/NamedColoursSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/NamedColoursSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/OpacitySniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/OpacitySniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/SemicolonSpacingSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/SemicolonSpacingSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/ShorthandSizeSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/CSS\/ShorthandSizeSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Debug\/JavaScriptLintSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Debug\/JavaScriptLintSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Debug\/JSLintSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Debug\/JSLintSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Files\/FileExtensionSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Files\/FileExtensionSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Formatting\/OperatorBracketSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Formatting\/OperatorBracketSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Functions\/FunctionDeclarationArgumentSpacingSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Functions\/FunctionDeclarationArgumentSpacingSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Functions\/FunctionDeclarationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Functions\/FunctionDeclarationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Functions\/FunctionDuplicateArgumentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Functions\/FunctionDuplicateArgumentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Functions\/GlobalFunctionSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Functions\/GlobalFunctionSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Functions\/LowercaseFunctionKeywordsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Functions\/LowercaseFunctionKeywordsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Functions\/MultiLineFunctionDeclarationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Functions\/MultiLineFunctionDeclarationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/NamingConventions\/ValidFunctionNameSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/NamingConventions\/ValidFunctionNameSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/NamingConventions\/ValidVariableNameSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/NamingConventions\/ValidVariableNameSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Objects\/DisallowObjectStringIndexSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Objects\/DisallowObjectStringIndexSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Objects\/ObjectInstantiationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Objects\/ObjectInstantiationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Objects\/ObjectMemberCommaSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Objects\/ObjectMemberCommaSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Operators\/ComparisonOperatorUsageSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Operators\/ComparisonOperatorUsageSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Operators\/IncrementDecrementUsageSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Operators\/IncrementDecrementUsageSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Operators\/ValidLogicalOperatorsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Operators\/ValidLogicalOperatorsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/CommentedOutCodeSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/CommentedOutCodeSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/DisallowBooleanStatementSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/DisallowBooleanStatementSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/DisallowComparisonAssignmentSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/DisallowComparisonAssignmentSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/DisallowInlineIfSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/DisallowInlineIfSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/DisallowMultipleAssignmentsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/DisallowMultipleAssignmentsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/DisallowObEndFlushSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/DisallowObEndFlushSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/DisallowSizeFunctionsInLoopsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/DisallowSizeFunctionsInLoopsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/DiscouragedFunctionsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/DiscouragedFunctionsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/EmbeddedPhpSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/EmbeddedPhpSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/EvalSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/EvalSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/ForbiddenFunctionsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/ForbiddenFunctionsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/GlobalKeywordSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/GlobalKeywordSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/HeredocSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/HeredocSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/InnerFunctionsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/InnerFunctionsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/LowercasePHPFunctionsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/LowercasePHPFunctionsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/NonExecutableCodeSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/PHP\/NonExecutableCodeSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Scope\/MemberVarScopeSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Scope\/MemberVarScopeSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Scope\/MethodScopeSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Scope\/MethodScopeSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Scope\/StaticThisUsageSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Scope\/StaticThisUsageSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Strings\/ConcatenationSpacingSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Strings\/ConcatenationSpacingSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Strings\/DoubleQuoteUsageSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Strings\/DoubleQuoteUsageSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Strings\/EchoedStringsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/Strings\/EchoedStringsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/CastSpacingSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/CastSpacingSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/ControlStructureSpacingSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/ControlStructureSpacingSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/FunctionClosingBraceSpaceSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/FunctionClosingBraceSpaceSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/FunctionOpeningBraceSpaceSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/FunctionOpeningBraceSpaceSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/FunctionSpacingSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/FunctionSpacingSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/LanguageConstructSpacingSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/LanguageConstructSpacingSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/LogicalOperatorSpacingSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/LogicalOperatorSpacingSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/MemberVarSpacingSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/MemberVarSpacingSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/ObjectOperatorSpacingSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/ObjectOperatorSpacingSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/OperatorSpacingSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/OperatorSpacingSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/PropertyLabelSpacingSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/PropertyLabelSpacingSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/ScopeClosingBraceSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/ScopeClosingBraceSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/ScopeKeywordSpacingSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/ScopeKeywordSpacingSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/SemicolonSpacingSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/SemicolonSpacingSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/SuperfluousWhitespaceSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Squiz\/Sniffs\/WhiteSpace\/SuperfluousWhitespaceSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Zend\/Sniffs\/Debug\/CodeAnalyzerSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Zend\/Sniffs\/Debug\/CodeAnalyzerSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Zend\/Sniffs\/Files\/ClosingTagSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Zend\/Sniffs\/Files\/ClosingTagSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Zend\/Sniffs\/NamingConventions\/ValidVariableNameSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Standards\/Zend\/Sniffs\/NamingConventions\/ValidVariableNameSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Tokenizers\/Comment.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Tokenizers\/Comment.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Tokenizers\/CSS.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Tokenizers\/CSS.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Tokenizers\/JS.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Tokenizers\/JS.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Tokenizers\/PHP.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Tokenizers\/PHP.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Tokens.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CodeSniffer\/Tokens.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/composer.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/composer.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/composer-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/CONTRIBUTING.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CONTRIBUTING.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/CONTRIBUTING.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/README.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/README.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/README.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/vendor\/squizlabs\/php_codesniffer\/scripts\/build-phar.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/squizlabs\/php_codesniffer\/scripts\/build-phar.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/stevegrunwell\/wp-enforcer\/CHANGELOG.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/stevegrunwell\/wp-enforcer\/CHANGELOG.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/vendor\/stevegrunwell\/wp-enforcer\/CHANGELOG.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/vendor\/stevegrunwell\/wp-enforcer\/composer.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/stevegrunwell\/wp-enforcer\/composer.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/vendor\/stevegrunwell\/wp-enforcer\/composer-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/vendor\/stevegrunwell\/wp-enforcer\/CONTRIBUTING.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/stevegrunwell\/wp-enforcer\/CONTRIBUTING.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/vendor\/stevegrunwell\/wp-enforcer\/CONTRIBUTING.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/vendor\/stevegrunwell\/wp-enforcer\/README.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/stevegrunwell\/wp-enforcer\/README.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/vendor\/stevegrunwell\/wp-enforcer\/README.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/CHANGELOG.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/CHANGELOG.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/CHANGELOG.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/composer.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/composer.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/composer-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/CONTRIBUTING.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/CONTRIBUTING.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/CONTRIBUTING.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/README.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/README.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/README.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/Arrays\/ArrayAssignmentRestrictionsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/Arrays\/ArrayAssignmentRestrictionsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/Arrays\/ArrayDeclarationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/Arrays\/ArrayDeclarationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/Arrays\/ArrayKeySpacingRestrictionsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/Arrays\/ArrayKeySpacingRestrictionsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/Classes\/ValidClassNameSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/Classes\/ValidClassNameSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/CSRF\/NonceVerificationSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/CSRF\/NonceVerificationSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/Files\/FileNameSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/Files\/FileNameSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/Functions\/FunctionRestrictionsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/Functions\/FunctionRestrictionsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/NamingConventions\/ValidFunctionNameSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/NamingConventions\/ValidFunctionNameSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/PHP\/DiscouragedFunctionsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/PHP\/DiscouragedFunctionsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/PHP\/StrictComparisonsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/PHP\/StrictComparisonsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/PHP\/YodaConditionsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/PHP\/YodaConditionsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/Variables\/GlobalVariablesSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/Variables\/GlobalVariablesSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/Variables\/VariableRestrictionsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/Variables\/VariableRestrictionsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/AdminBarRemovalSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/AdminBarRemovalSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/CronIntervalSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/CronIntervalSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/DirectDatabaseQuerySniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/DirectDatabaseQuerySniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/FileSystemWritesDisallowSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/FileSystemWritesDisallowSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/PluginMenuSlugSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/PluginMenuSlugSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/PostsPerPageSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/PostsPerPageSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/RestrictedFunctionsSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/RestrictedFunctionsSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/RestrictedVariablesSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/RestrictedVariablesSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/SessionFunctionsUsageSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/SessionFunctionsUsageSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/SessionVariableUsageSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/SessionVariableUsageSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/SlowDBQuerySniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/SlowDBQuerySniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/SuperGlobalInputUsageSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/SuperGlobalInputUsageSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/TimezoneChangeSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/TimezoneChangeSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/ValidatedSanitizedInputSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/VIP\/ValidatedSanitizedInputSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/WhiteSpace\/CastStructureSpacingSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/WhiteSpace\/CastStructureSpacingSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/WhiteSpace\/ControlStructureSpacingSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/WhiteSpace\/ControlStructureSpacingSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/WhiteSpace\/OperatorSpacingSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/WhiteSpace\/OperatorSpacingSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/WP\/EnqueuedResourcesSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/WP\/EnqueuedResourcesSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/WP\/PreparedSQLSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/WP\/PreparedSQLSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/XSS\/EscapeOutputSniff.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Sniffs\/XSS\/EscapeOutputSniff.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/Arrays\/ArrayAssignmentRestrictionsUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/Arrays\/ArrayAssignmentRestrictionsUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/Arrays\/ArrayDeclarationUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/Arrays\/ArrayDeclarationUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/Arrays\/ArrayKeySpacingRestrictionsUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/Arrays\/ArrayKeySpacingRestrictionsUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/Classes\/ValidClassNameUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/Classes\/ValidClassNameUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/CSRF\/NonceVerificationUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/CSRF\/NonceVerificationUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/Files\/FileNameUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/Files\/FileNameUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/NamingConventions\/ValidFunctionNameUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/NamingConventions\/ValidFunctionNameUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/PHP\/DiscouragedFunctionsUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/PHP\/DiscouragedFunctionsUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/PHP\/StrictComparisonsUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/PHP\/StrictComparisonsUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/PHP\/YodaConditionsUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/PHP\/YodaConditionsUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/Variables\/GlobalVariablesUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/Variables\/GlobalVariablesUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/Variables\/VariableRestrictionsUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/Variables\/VariableRestrictionsUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/AdminBarRemovalUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/AdminBarRemovalUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/CronIntervalUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/CronIntervalUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/DirectDatabaseQueryUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/DirectDatabaseQueryUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/FileSystemWritesDisallowUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/FileSystemWritesDisallowUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/PluginMenuSlugUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/PluginMenuSlugUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/PostsPerPageUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/PostsPerPageUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/RestrictedFunctionsUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/RestrictedFunctionsUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/RestrictedVariablesUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/RestrictedVariablesUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/SessionFunctionsUsageUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/SessionFunctionsUsageUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/SessionVariableUsageUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/SessionVariableUsageUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/SlowDBQueryUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/SlowDBQueryUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/SuperGlobalInputUsageUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/SuperGlobalInputUsageUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/TimezoneChangeUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/TimezoneChangeUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/ValidatedSanitizedInputUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/VIP\/ValidatedSanitizedInputUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/WhiteSpace\/CastStructureSpacingUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/WhiteSpace\/CastStructureSpacingUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/WhiteSpace\/ControlStructureSpacingUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/WhiteSpace\/ControlStructureSpacingUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/WhiteSpace\/OperatorSpacingUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/WhiteSpace\/OperatorSpacingUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/WP\/EnqueuedResourcesUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/WP\/EnqueuedResourcesUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/WP\/PreparedSQLUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/WP\/PreparedSQLUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/XSS\/EscapeOutputUnitTest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/wp-coding-standards\/wpcs\/WordPress\/Tests\/XSS\/EscapeOutputUnitTest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "Nate Lalau",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "palisadesriviera",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "harddrive_brown"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"ensure_comprehensions": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"spacing_after_comma": {
+			"active": 1,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerPreviewPathAddition": "",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 2,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 1,
+	"javascriptSyntaxCheckerStyle": 1,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"browserify": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"elision": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"futurehostile": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jasmine": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mocha": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nocomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"qunit": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"singleGroups": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"varstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es6": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"for": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsonAutoOutputPathEnabled": 0,
+	"jsonAutoOutputPathFilenamePattern": "*-min.json",
+	"jsonAutoOutputPathRelativePath": "",
+	"jsonAutoOutputPathReplace1": "",
+	"jsonAutoOutputPathReplace2": "",
+	"jsonAutoOutputPathStyle": 0,
+	"jsonOrderOutput": 0,
+	"jsonOutputStyle": 1,
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
+	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 0,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 0,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownCriticStyle": 0,
+	"markdownEnableFootnotes": 0,
+	"markdownEnableLabels": 1,
+	"markdownEnableSmartQuotes": 1,
+	"markdownEscapeLineBreaks": 0,
+	"markdownMaskEmailAddresses": 1,
+	"markdownOutputFormat": 0,
+	"markdownOutputStyle": 0,
+	"markdownParseMetadata": 1,
+	"markdownProcessHTML": 0,
+	"markdownRandomFootnoteNumbers": 0,
+	"markdownUseCompatibilityMode": 0,
+	"reloadFileURLs": 0,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 10,
+	"sassOutputStyle": 0,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 0,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, node_modules",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 0,
+	"slimLogicless": 0,
+	"slimOutputFormat": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
+	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusCreateSourceMap": 0,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptJSXMode": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleResolutionType": 0,
+	"typescriptModuleType": 0,
+	"typescriptNoImplicitAny": 0,
+	"typescriptPreserveConstEnums": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptSuppressImplicitAnyIndexErrors": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bare-returns": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_console": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"keep_fargs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_fnames": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"negate_iife": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}
